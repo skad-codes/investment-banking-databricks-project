@@ -1,1 +1,5 @@
-
+security_id,security_name,nav
+S001,HDFC_Fund,150
+S002,ICICI_Fund,120
+S003,SBI_Fund,80
+``
