@@ -1,1 +1,5 @@
-
+client_id,security_id,units
+C001,S001,100
+C001,S002,50
+C002,S001,75
+C003,S003,200
