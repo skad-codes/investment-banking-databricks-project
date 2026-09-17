@@ -1,1 +1,4 @@
-
+client_id,client_name,city,risk_profile
+C001,Amit Sharma,Mumbai,Moderate
+C002,Priya Mehta,Pune,Conservative
+C003,Rahul Verma,Bangalore,Aggressive
